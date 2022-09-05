@@ -1,0 +1,4 @@
+inputfile	ABR_counts/ABR_profile_sorted.csv
+index	shannon
+categories	categories.txt
+pairs	pairs.txt

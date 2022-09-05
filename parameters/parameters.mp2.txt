@@ -1,0 +1,6 @@
+metadata	samples_metagen_metadata.csv
+abundance	ABR_counts/ABR_profile_normalized.csv
+group1	Control
+group2	GWI
+group1a	WD_Control
+group2a	WD_GWI
