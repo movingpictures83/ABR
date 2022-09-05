@@ -1,0 +1,90 @@
+Prefix pipelines/ABR/
+Plugin SampleExtract inputfile parameters/parameters.sampleextract.txt outputfile samples_metagen.txt
+Kitty SAM/GWP_17P_S127_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_20P_S144_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_3P_S125_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_10P_S140_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_34P_S149_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_5P_S130_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_2P_S124_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_36P_S151_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_15P_S148_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_6P_S131_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_25P_S132_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_11P_S141_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_18P_S128_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_35P_S150_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_19P_S143_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_27P_S133_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP26_S46_L001
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_4P_S129_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_1P_S123_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_14P_S147_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_21P_S145_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_12P_S142_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_16P_S126_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty SAM/GWP_13P_S146_L007
+Pipeline pipelines/ABR/config.abundance.txt
+Kitty .
+Plugin Copy inputfile SAM/GWP_17P_S127_L007/out.abundance.txt outputfile out_abundance/GWP_17P_S127_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_20P_S144_L007/out.abundance.txt outputfile out_abundance/GWP_20P_S144_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_3P_S125_L007/out.abundance.txt outputfile out_abundance/GWP_3P_S125_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_10P_S140_L007/out.abundance.txt outputfile out_abundance/GWP_10P_S140_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_34P_S149_L007/out.abundance.txt outputfile out_abundance/GWP_34P_S149_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_5P_S130_L007/out.abundance.txt outputfile out_abundance/GWP_5P_S130_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_2P_S124_L007/out.abundance.txt outputfile out_abundance/GWP_2P_S124_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_36P_S151_L007/out.abundance.txt outputfile out_abundance/GWP_36P_S151_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_15P_S148_L007/out.abundance.txt outputfile out_abundance/GWP_15P_S148_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_6P_S131_L007/out.abundance.txt outputfile out_abundance/GWP_6P_S131_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_25P_S132_L007/out.abundance.txt outputfile out_abundance/GWP_25P_S132_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_11P_S141_L007/out.abundance.txt outputfile out_abundance/GWP_11P_S141_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_18P_S128_L007/out.abundance.txt outputfile out_abundance/GWP_18P_S128_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_35P_S150_L007/out.abundance.txt outputfile out_abundance/GWP_35P_S150_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_19P_S143_L007/out.abundance.txt outputfile out_abundance/GWP_19P_S143_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_27P_S133_L007/out.abundance.txt outputfile out_abundance/GWP_27P_S133_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP26_S46_L001/out.abundance.txt outputfile out_abundance/GWP26_S46_L001-abundance.txt
+Plugin Copy inputfile SAM/GWP_4P_S129_L007/out.abundance.txt outputfile out_abundance/GWP_4P_S129_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_1P_S123_L007/out.abundance.txt outputfile out_abundance/GWP_1P_S123_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_14P_S147_L007/out.abundance.txt outputfile out_abundance/GWP_14P_S147_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_21P_S145_L007/out.abundance.txt outputfile out_abundance/GWP_21P_S145_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_12P_S142_L007/out.abundance.txt outputfile out_abundance/GWP_12P_S142_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_16P_S126_L007/out.abundance.txt outputfile out_abundance/GWP_16P_S126_L007-abundance.txt
+Plugin Copy inputfile SAM/GWP_13P_S146_L007/out.abundance.txt outputfile out_abundance/GWP_13P_S146_L007-abundance.txt
+Plugin CombineAbundance inputfile parameters/parameters.combineabundance.txt outputfile out_abundance/combined_abr.csv
+#Plugin StackedBar inputfile parameters/parameters.stackedbar.txt outputfile stackedbar.png
+#Plugin StackedBar inputfile parameters/parameters.stackedbar.norm.txt outputfile stackedbar.norm.png
+Plugin RPKM inputfile parameters/parameters.rpkm.txt outputfile figures/ABR_profile_avg.png
+Plugin RPKM inputfile parameters/parameters.rpkm.norm.txt outputfile figures/ABR_profile_normalized_avg.png
+Plugin Plotly inputfile parameters/parameters.plotly.txt outputfile figures/ABR_stackedBar_ind_RPKM.png
+Plugin PlotlySorted inputfile parameters/parameters.plotlysorted.txt outputfile figures/ABR_stackedBar_ind_RPKM_sorted.png
+Plugin AlphaPairwise inputfile parameters/parameters.simpson.txt outputfile figures/Simpson.png
+Plugin AlphaPairwise inputfile parameters/parameters.shannon.txt outputfile figures/Shannon.png
+Plugin Plotly inputfile parameters/parameters.plotly.norm.txt outputfile figures/ABR-profile_norm.png
+Plugin MannWhitneyPValue inputfile parameters/parameters.mp1.txt outputfile MW/MW.RPKM.pvalue
+Plugin MannWhitneyPValue inputfile parameters/parameters.mp2.txt outputfile MW/MW.abundance.pvalue
+Plugin StackedBarSelect inputfile parameters/parameters.stackedbarselect.rpkm.txt outputfile figures/boxplots/RPKM
+Plugin StackedBarSelect inputfile parameters/parameters.stackedbarselect.abundance.txt outputfile figures/boxplots/abundance
+Plugin Venn inputfile parameters/parameters.venn.txt outputfile figures/venn.jpg
