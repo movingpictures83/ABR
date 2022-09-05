@@ -1,0 +1,9 @@
+contigs	../../megares2_db/megares-refs.fna
+sequences1	/biorg/data/GulfWar/GWP_14P_S147_L007_R1_001.fastq
+sequences2	/biorg/data/GulfWar/GWP_14P_S147_L007_R2_001.fastq
+threads	24
+local	True
+veryfastlocal	True
+nodiscordant	True
+nomixed	True
+nounal	True
